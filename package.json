@@ -1,0 +1,11 @@
+{
+  "name": "Shared Vue Components",
+  "type": "module",
+  "scripts": {
+    "build": "microbundle src/*.js",
+    "dev": "microbundle watch src/*.js"
+  },
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  }
+}
