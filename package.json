@@ -1,5 +1,5 @@
 {
-  "name": "Shared Vue Components",
+  "name": "Shared Components",
   "type": "module",
   "scripts": {
     "build": "microbundle src/*.js",

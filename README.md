@@ -1,2 +1,2 @@
-# Shared Vue Components
+# Shared Components
 
